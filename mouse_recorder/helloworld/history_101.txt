@@ -1,0 +1,5 @@
+mouse left down,Spyder (Python 3.6),105,235,3.32,1523520379.4944057
+mouse left up,Spyder (Python 3.6),105,235,3.63,1523520379.8074236
+key down,Spyder (Python 3.6),Lcontrol,9.4,1523520385.5797536
+key down,Spyder (Python 3.6),a,9.44,1523520385.622756
+done

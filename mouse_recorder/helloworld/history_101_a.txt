@@ -1,0 +1,13 @@
+mouse left down,Spyder (Python 3.6),331,172,1.57,1523522150.1826832
+mouse left up,Spyder (Python 3.6),331,172,1.77,1523522150.3806946
+key down,Spyder (Python 3.6),Lcontrol,3.88,1523522152.4938152
+key down,Spyder (Python 3.6),A,4.05,1523522152.6598248
+done
+mouse left down,Start,21,738,2.11,1523526660.417654
+mouse left up,Start,21,738,2.21,1523526660.5226598
+key down,Start menu,A,4.04,1523526662.3547647
+key down,Start menu,S,4.11,1523526662.4237685
+key down,Start menu,D,4.28,1523526662.5917783
+mouse left down,Spyder (Python 3.6),606,649,5.68,1523526663.9918582
+mouse left up,Spyder (Python 3.6),606,649,5.76,1523526664.0688627
+done
