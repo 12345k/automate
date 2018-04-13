@@ -1,3 +1,20 @@
+mouse left down,Spyder (Python 3.6),78,200,2.79,1523514133.759488
+mouse left up,Spyder (Python 3.6),78,200,2.87,1523514133.837871
+mouse left down,Spyder (Python 3.6),1683,214,4.23,1523514135.1965964
+mouse left up,Spyder (Python 3.6),1683,214,4.33,1523514135.2965784
+mouse left down,Spyder (Python 3.6),1678,870,5.68,1523514136.6468792
+mouse left up,Spyder (Python 3.6),1678,870,5.75,1523514136.7160187
+mouse left down,Spyder (Python 3.6),100,882,7.54,1523514138.5017667
+mouse left up,Spyder (Python 3.6),100,882,7.61,1523514138.572314
+mouse left down,Spyder (Python 3.6),139,221,9.01,1523514139.9797404
+mouse left up,Spyder (Python 3.6),139,221,9.11,1523514140.0711753
+mouse left down,Spyder (Python 3.6),1628,231,10.87,1523514141.8350956
+mouse left up,Spyder (Python 3.6),1628,231,10.93,1523514141.8938527
+mouse left down,Spyder (Python 3.6),1672,897,12.49,1523514143.4543774
+mouse left up,Spyder (Python 3.6),1672,897,12.57,1523514143.5336306
+mouse left down,Spyder (Python 3.6),122,875,14.28,1523514145.2474375
+mouse left up,Spyder (Python 3.6),122,875,14.35,1523514145.3164499
+done
 mouse left down,Type here to search,357,1052,2.45,1523514319.8917627
 mouse left up,Type here to search,356,1052,2.49,1523514319.9319534
 mouse left down,Type here to search,356,1052,2.5,1523514319.9475684
